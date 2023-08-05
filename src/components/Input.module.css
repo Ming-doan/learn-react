@@ -1,0 +1,20 @@
+.container {
+    width: 100%;
+    display: flex;
+    padding: 10px 0;
+    gap: 10px;
+}
+
+.Input {
+    flex: 1;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.Button {
+    padding: 10px;
+    border-radius: 20px;
+    background-color: #1DA1F2;
+    color: white;
+    cursor: pointer;
+}
