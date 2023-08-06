@@ -5,13 +5,13 @@
     gap: 10px;
 }
 
-.Input {
+.input {
     flex: 1;
     padding: 10px;
     border-radius: 10px;
 }
 
-.Button {
+.button {
     padding: 10px;
     border-radius: 20px;
     background-color: #1DA1F2;

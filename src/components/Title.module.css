@@ -1,11 +1,14 @@
 .container {
     width: 100%;
+    display: flex;
+    justify-content: space-between;
 }
 
-.Title {
+.title {
     font-size: 30px;
     font-weight: bold;
-    display: flex;
-    align-items: center;
-    margin-bottom: 10px;
+}
+
+.themeButton {
+    cursor: pointer;
 }
